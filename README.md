@@ -1,5 +1,5 @@
-# TEMPLATE
-> Project Legend
+# CORE_LIB
+> C++17 Core Library
 
 Project Overview
 
