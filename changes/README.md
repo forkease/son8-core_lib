@@ -4,9 +4,14 @@
 ## Unreleased
 > in progress
 
-- interfacing c_header and cxx_unit
-- type aliases for most useful fundamental and std class types
 - Long type (for ptrdiff_t and size_t comparisons)
+
+## v0.0.2
+> 2026-05-12
+
+### Added
+- interfacing son8 c_header and cxx_unit libraries
+- type aliases for most useful fundamental and std class types
 
 ## v0.0.1
 > 2026-05-08
