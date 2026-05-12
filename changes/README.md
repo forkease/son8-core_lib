@@ -2,7 +2,11 @@
 > [keep a changelog](https://keepachangelog.com/en/1.1.0/) with [semantic versioning](https://semver.org/spec/v2.0.0.html)
 
 ## Unreleased
-> nothing in progress
+> in progress
+
+- interfacing c_header and cxx_unit
+- type aliases for most useful fundamental and std class types
+- Long type (for ptrdiff_t and size_t comparisons)
 
 ## v0.0.1
 > 2026-05-08
