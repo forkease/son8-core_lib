@@ -4,7 +4,8 @@
 ## Unreleased
 > in progress
 
-- Long type (for ptrdiff_t and size_t comparisons)
+- more useless aliases
+- update changes on first minor version bump
 
 ## v0.0.2
 > 2026-05-12
